@@ -1463,7 +1463,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #64748b; padding: 20px;">
-        <p><strong>⚖️ LegalMitra</strong> - Your AI Legal Assistant | Powered by Google Gemini 2.5 Flash | 100% FREE</p>
+        <p><strong>⚖️ LegalMitra</strong> - Your AI Legal Assistant </p>
         <p style="font-size: 14px;">🔒 Your data is secure | 🌐 Multi-language support | 💯 Professional Edition</p>
         <p style="font-size: 12px; margin-top: 10px;"><em>"Mitra" (मित्र) means "Friend" in Sanskrit</em></p>
     </div>
@@ -1471,3 +1471,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
